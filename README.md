@@ -6,9 +6,12 @@ Site: https://books.toscrape.com/index.html
 
 
 
-Foram utilizados 
+Foram utilizados : 
 
-Python 
-CSV
-Requests
-BeautifulSoup
+- Python 
+
+- CSV
+
+- Requests
+
+- BeautifulSoup
