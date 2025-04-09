@@ -15,3 +15,5 @@ Foram utilizados :
 - Requests
 
 - BeautifulSoup
+
+Tutorial de Web Scrapping: https://www.youtube.com/watch?v=nBzrMw8hkmY&t=12s

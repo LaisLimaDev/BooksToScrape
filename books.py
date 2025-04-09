@@ -11,7 +11,7 @@ data = []
 proceed = True
 
 while(proceed):
-    print("Currently scraping page: "+str(current_page))
+    print("Extração da página nº: "+str(current_page))
 
     url = "https://books.toscrape.com/catalogue/page-"+str(current_page)+".html"
 
